@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Logic-pwa8/static/css/main.073c9b0a.css",
-    "main.js": "/Logic-pwa8/static/js/main.e8c36ce8.js",
+    "main.js": "/Logic-pwa8/static/js/main.585d6cbf.js",
     "static/js/787.28cb0dcd.chunk.js": "/Logic-pwa8/static/js/787.28cb0dcd.chunk.js",
     "service-worker.js": "/Logic-pwa8/service-worker.js",
     "index.html": "/Logic-pwa8/index.html",
     "main.073c9b0a.css.map": "/Logic-pwa8/static/css/main.073c9b0a.css.map",
-    "main.e8c36ce8.js.map": "/Logic-pwa8/static/js/main.e8c36ce8.js.map",
+    "main.585d6cbf.js.map": "/Logic-pwa8/static/js/main.585d6cbf.js.map",
     "787.28cb0dcd.chunk.js.map": "/Logic-pwa8/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e8c36ce8.js"
+    "static/js/main.585d6cbf.js"
   ]
 }
